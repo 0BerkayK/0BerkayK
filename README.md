@@ -3,6 +3,13 @@
 
 <h3 align="center">Software Developer from Türkiye</h3>
 
+
+
+- I graduated from Eskişehir Osmangazi University
+- I am into software development both backend and frontend
+
+
+
 <h3 align="left">Reach out to me:</h3>
 <p align="left">
 <a href="mailto:berkaykorcum@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="40" width="40" /></a>
