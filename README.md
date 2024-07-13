@@ -6,7 +6,7 @@
 
 
 - I graduated from Eskişehir Osmangazi University
-- I am into software development both backend and frontend
+- I am into software development and Data Science
 
 
 
