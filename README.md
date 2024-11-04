@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone, I'm Berkay</h1>
 <h3 align="center"></h3>
 
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<h3 align="center">A passionate Data Scientist from Turkey</h3>
 
 
 
